@@ -27,7 +27,7 @@ const princePaul = {
 
 ## 🚀 Featured work
 
-- **Compute Passport** — an AI-assisted environmental assurance and disclosure platform. I contributed to mobile development and served as the Silly Fox team pitcher; our team earned **1st Runner-Up at IEEE R10 SUMPAI 2026**.
+- **Compute Passport** — an AI-assisted environmental assurance and disclosure platform. I contributed to mobile development and served as the Silly Fox team pitcher and developer; our team earned **1st Runner-Up at IEEE R10 SUMPAI 2026**.
 - **[Personal Portfolio](https://github.com/RaiYuu08/Personal-Portfolio)** — a responsive HTML and CSS portfolio served through a Bonezegei Scripting Language HTTP server.
 
 ## 🤝 Let's connect
